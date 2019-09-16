@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background-color:lightblue;
+}
+.nav{
+    display:flex;
+    width: 30%;
+    height: 100%;
+
+    
+}

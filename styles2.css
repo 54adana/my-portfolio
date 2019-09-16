@@ -1,0 +1,68 @@
+body{
+    background-image: url("images/background.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.nav{
+    display:inline-block;
+    width: 20%;
+    height: 100%;
+    padding: 75px;
+    box-shadow: 5px 10px 5px cyan;
+    border: 2px white;
+    background-color:white;
+    float: left;
+
+
+}
+.nav ul li a{
+    color:black;
+    text-decoration: none;
+    float:left;
+}
+.img{
+    display:block;
+    clear: both;
+}
+li {
+    padding: 30px;
+    text-decoration: none;
+}
+.pic {
+    display: flex;
+    /* float: left; */
+    clear: both;
+}
+img{
+    border-radius: 70%;
+}
+.y h2{
+    text-align: center;
+    color: black;
+    font-size:130px 
+
+}
+.xy{
+    clear: both;
+}
+#about{
+    padding: 20px;
+    background-color: aliceblue;
+    
+}
+#contact{
+    padding: 20px;
+    background-color: aliceblue;
+    float:down;
+}
+ h4{
+     float:down;
+     font-style:inherit;
+     padding: 25px;
+      
+
+}
+
+
+}
